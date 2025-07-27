@@ -3,7 +3,7 @@
 - Técnica em UX/UI pela EBAC
 - MbA em Neuromarketing pela PUC
 
-✨Possuo 4 anos de experiência na área criativa começando minha trajetória atuando com foco em Design Gráfico, Branding e Social Media passando posteriormente para Web Design onde me aprofundei e ganhei espaço no mercado. Tenho experiência com criação de materiais chamativos e criativos, design de interfaces responsivas para diversas telas, aprimoramento e manutenção de layouts já existentes, e-mail marketing, estratégias de comunicação visual, alinhamento multidisciplinar, produção de criativos on e offline e mais.✨
+✨Possuo experiência na área criativa começando minha trajetória atuando com foco em Design Gráfico, Branding e Social Media passando posteriormente para Web Design onde me aprofundei e ganhei espaço no mercado. Tenho experiência com criação de materiais chamativos e criativos, design de interfaces responsivas para diversas telas, aprimoramento e manutenção de layouts já existentes, e-mail marketing, estratégias de comunicação visual, alinhamento multidisciplinar, produção de criativos on e offline e mais.✨
   
   <div style="display: inline_block"><br>
   <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
